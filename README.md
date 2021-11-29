@@ -3,6 +3,11 @@
 <a href="https://www.linkedin.com/in/abdullahonus/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+</a>
+<a href="https://www.linkedin.com/in/abdullahonus/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftoppng.com%2Fuploads%2Fpreview%2Few-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-115629178687gobkrzwak.png&imgrefurl=https%3A%2F%2Ftoppng.com%2Few-instagram-logo-transparent-related-keywords-logo-instagram-vector-2017-PNG-free-PNG-Images_174471&tbnid=7rEWmIQ5okffVM&vet=12ahUKEwiHvqT34b70AhUTkP0HHS1yCYAQMygEegUIARC4AQ..i&docid=d0tdeZ3NXvzoAM&w=840&h=859&q=instagram%20logo&ved=2ahUKEwiHvqT34b70AhUTkP0HHS1yCYAQMygEegUIARC4AQ" />
+</a>
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
