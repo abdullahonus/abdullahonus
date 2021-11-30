@@ -3,14 +3,18 @@
 <a href="https://www.linkedin.com/in/abdullahonus/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   
+  [![Instagram: Countrol4offical](https://img.shields.io/instagram/follow/Countrol4offical?style=social)](https://instagram.com/Countrol4offical)
+  
   [![GitHub Thaiane](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
 </a>
 
 
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
+
 
 <br />
 
