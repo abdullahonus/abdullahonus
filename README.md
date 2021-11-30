@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/abdullah-onu%C5%9F-104682189/">
   <img align="left" alt="Abdullah's LinkedIN" width="40px"    src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
   
-</a>
+
 <br />
 
 
