@@ -10,9 +10,10 @@
   <img align="left" alt="Abdullah's LinkedIN" width="40px"    src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 
+
+
 [![GitHub abdullahonus](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
-
 <br />
 
 
