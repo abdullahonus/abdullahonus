@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </a>
-[![Linkedin: abdullahonus](https://img.shields.io/badge/-abdullahonus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahonus/)]
+
   
   [![GitHub Thaiane](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
   
