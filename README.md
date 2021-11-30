@@ -2,7 +2,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
 
 <a href="https://www.instagram.com/countrol4offical/">
-  <img align="left" alt="Abdullah's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/Instagram.svg" />
+  <img align="left" alt="Abdullah's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abdullah-onu%C5%9F-104682189/">
   <img align="left" alt="Abdullah's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
