@@ -1,5 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 [![GitHub Thaiane](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
+![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
 
 <a href="https://www.instagram.com/countrol4offical/">
   <img align="left" alt="Abdullah's Instagram" width="40px"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
@@ -8,7 +9,7 @@
   <img align="left" alt="Abdullah's LinkedIN" width="40px"    src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
+
 
 
 
