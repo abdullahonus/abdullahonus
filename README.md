@@ -1,7 +1,7 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </a>
 <a href="https://www.linkedin.com/in/abdullahonus/">
-  <img align="left" alt="abdullahonus's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abdullahonuş's LinkedIN" width="22px" src="https://raw.githubusercontent.com/Abdullahonuş/Abdullahonuş/master/assets/linkedin.svg" />
   
   [![GitHub Thaiane](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
   
