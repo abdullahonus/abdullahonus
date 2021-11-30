@@ -15,7 +15,7 @@
 [![GitHub abdullahonus](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
 
-
+<br />
 
 
 Hi, i'm [Abdullah Onus](https://abdullahonus.me/), a passionate self-taught with flutter and a freelance software engineer from Turkey.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
