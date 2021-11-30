@@ -7,7 +7,7 @@
 </a>
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
 
-![Linkedin Badge](https://img.shields.io/badge/-AbdullahOnuş-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abdullah-onu%C5%9F-104682189/)
+
 
 
 
