@@ -4,7 +4,10 @@
 ![Linkedin Badge](https://img.shields.io/badge/-AbdullahOnuş-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abdullah-onu%C5%9F-104682189/)
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
 
-<a href="https://discord.gg/XTW52Kt">
+</a>
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 
