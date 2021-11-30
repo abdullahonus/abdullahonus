@@ -5,7 +5,7 @@
   <img align="left" alt="Abdullah's Instagram" width="40px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
 </a>
 <a href="https://www.linkedin.com/in/abdullah-onu%C5%9F-104682189/">
-  <img align="left" alt="Abdullah's LinkedIN" width="30px"  src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" />
+  <img align="left" alt="Abdullah's LinkedIN" width="30px"   src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
