@@ -1,5 +1,7 @@
-### Hey There ,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ### if you want to see the output of the codes in the repositories. You can examine the sample images in README :)) 
+### Hey There ,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### if you want to see the output of the codes in the repositories. You can examine the sample images in README :)) 
 
+<br />
 
 [![GitHub abdullahonus](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
