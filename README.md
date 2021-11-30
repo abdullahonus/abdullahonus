@@ -3,9 +3,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
 
 <br />
-<br />
-<br />
-
 <a href="https://www.instagram.com/countrol4offical/">
 
   <img align="left" alt="Abdullah's Instagram" width="40px"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
@@ -15,7 +12,10 @@
   <img align="left" alt="Abdullah's LinkedIN" width="40px"    src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 
-
+<br />
+<br />
+<br />
+<br />
 
 
 Hi, i'm [Abdullah Onus](https://abdullahonus.me/), a passionate self-taught with flutter and a freelance software engineer from Turkey.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
