@@ -3,7 +3,7 @@
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abdullah%20Onus-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abdullahonus/)]
+![Linkedin Badge](https://img.shields.io/badge/-Abdullah%20Onuş-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/Abdullah-Onuş/)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
