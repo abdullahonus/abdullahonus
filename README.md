@@ -52,5 +52,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abdullahonus&show_icons=true&theme=gotham" alt="abdullahonus" />
 
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahonus&show_icons=true&locale=en" alt="abdullahonus" /></p>
 
 
