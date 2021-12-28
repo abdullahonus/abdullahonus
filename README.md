@@ -6,9 +6,9 @@
 [![GitHub abdullahonus](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
 
-<br />
-<a href="https://www.instagram.com/countrol4offical/">
 
+<a href="https://www.instagram.com/countrol4offical/">
+<br />
   <img align="left" alt="Abdullah's Instagram" width="40px"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
 </a>
 
@@ -18,7 +18,7 @@
 
 <br />
 <br />
-
+<br />
 
 Hi, i'm [Abdullah Onus](https://abdullahonus.me/), a passionate self-taught with flutter and a freelance software engineer from Turkey.my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
@@ -27,6 +27,12 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <br />
 <br />
 <br />
+
+- 💼 any freelance work? do reach, [email](mailto:countrolfour@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+<br />
+<br />
+
 
 **IDE'S BEFORE I USED:**  
 ![](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -56,12 +62,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 **MOBİLE FRAMWORKS:**
 
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-<br />
-<br />
-<br />
-<br />
-- 💼 any freelance work? do reach, [email](mailto:countrolfour@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
 
 <br />
 <img width='800' src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahonus" />
