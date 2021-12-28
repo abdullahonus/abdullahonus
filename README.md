@@ -1,4 +1,4 @@
-### Hey There ,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+![Hey I'm Abdullah](gifLast.gif)
 ### if you want to see the output of the codes in the repositories. You can examine the sample images in README :)) 
 
 <br />
