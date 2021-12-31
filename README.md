@@ -76,6 +76,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img width='800' src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahonus" />
 <br />
 <p><img width='800' src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahonus&show_icons=true&locale=en&layout=compact" alt="abdullahonus" /></p>
+<br />
 <p><img width='800' src="https://github-readme-stats.vercel.app/api?username=abdullahonus&show_icons=true&theme=gotham" alt="abdullahonus" />
 
 
