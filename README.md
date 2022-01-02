@@ -3,10 +3,6 @@
 <br />
 
 
-[![GitHub abdullahonus](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
-![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
-
-
 <a href="https://www.instagram.com/countrol4offical/">
 <br />
   <img align="left" alt="Abdullah's Instagram" width="40px"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
