@@ -1,5 +1,4 @@
-#### if you want to see the output of the codes in the repositories. You can examine the sample images in README
-![]()
+#### if you want to see the output of the codes in the repositories. You can examine the sample images in README ![]()
 <br />
 
 
