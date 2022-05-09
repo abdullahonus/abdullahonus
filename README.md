@@ -21,7 +21,7 @@
 <br />
 
 #### Hi, i'm [Abdullah Onus](https://abdullahonus.me/), and I am 22 years old.
-I am passionately self-taught with Flutter and am a freelance computer engineer from Turkey. I pay great attention to the experience, architecture and code quality of the things I build. I took part in many professional projects both as a frontand and a backand. I also have experience with Java and Unity with C#.
+I am passionately self-taught with Flutter and am a freelance computer engineer from Turkey. I pay great attention to the experience, architecture and code quality of the things I build. I took part in many professional projects both as a frontend and a backend. I also have experience with Java and Unity with C#.
 <br />
 <br />
 <br />
