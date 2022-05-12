@@ -20,7 +20,7 @@
 <br />
 <br />
 
-#### Hi, i'm [Abdullah Onus](https://abdullahonus.me/), and I am 22 years old.
+#### Hi, i'm [Abdullah Onus](https://abdullahonus.me/), and I am 22.
 I am passionately self-taught with Flutter and i am freelance computer engineer in Turkey. I pay great attention to the experience, architecture and code quality of the things I build. I took part in many professional projects both as a frontend and a backend. I also have experience with Java mobile app and Unity with C#.
 <br />
 <br />
