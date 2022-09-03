@@ -1,6 +1,17 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter;IOS;Android&center=true&size=30">
+  </a>
+</h1>
+
+# Hey there :wave:
 #### if you want to see the output of the codes in the repositories. You can examine the sample images in README ![]()
 <br />
 
+<p align="center"> 
+  Visitor count<br>
+   <img src="https://profile-counter.glitch.me/abdullahonus/count.svg" />
+</p>
 
 [![GitHub abdullahonus](https://img.shields.io/github/followers/abdullahonus?label=follow&style=social)](https://github.com/abdullahonus)
 ![](https://visitor-badge.glitch.me/badge?page_id=abdullahonus.abdullahonus)
