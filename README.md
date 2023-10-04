@@ -39,24 +39,8 @@ I am passionately self-taught with Flutter and i am freelance computer engineer 
 
 - 💼 any freelance work? do reach, [email](mailto:countrolfour@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-<br />
-<br />
 
 
-**LANGUAGES:** 
-
-![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-<br />
-<br />
-
-
-**DATABASE:**   
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-<br />
-<br />
 
 **GROUPS:**
 
@@ -65,15 +49,6 @@ I am passionately self-taught with Flutter and i am freelance computer engineer 
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 <br />
-<br />
-
-
-**MOBİLE FRAMWORKS:**
-
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-<br />
-<img width='800' src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahonus" />
 <br />
 
 
